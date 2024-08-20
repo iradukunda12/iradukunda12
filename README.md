@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **E-commerce App**
 
-- 🌱 I’m currently learning **Flutter,ReactJS**
+- 🌱 I’m currently learning **Flutter,Angular**
 
 - 💬 Ask me about **Flutter,UI/UX**
 
