@@ -7,10 +7,8 @@
 <p align="left"> <a href="https://twitter.com/__kevin_ir" target="blank"><img src="https://img.shields.io/twitter/follow/__kevin_ir?logo=twitter&style=for-the-badge" alt="__kevin_ir" /></a> </p>
 
 - 🔭 I’m currently **Freelancing**
-
-- 🌱 I’m currently learning **Flutter,Angular**
-
-- 💬 Ask me about **Flutter,UI/UX**
+- 
+- 💬 Ask me about **Flutter,Angular,Nestjs,UI/UX**
 
 - 📫 How to reach me **iradukundakvn8@gmail.com**
 
