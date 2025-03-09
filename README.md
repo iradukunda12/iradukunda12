@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm IRADUKUNDA Kevin</h1>
-<h3 align="center">A passionate Mobile Developer and UX/UI Designer</h3>
+<h3 align="center">A passionate Mobile Developer and Frontend Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 
 <p align="left"> <a href="https://twitter.com/__kevin_ir" target="blank"><img src="https://img.shields.io/twitter/follow/__kevin_ir?logo=twitter&style=for-the-badge" alt="__kevin_ir" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce App**
+- 🔭 I’m currently **Freelancing**
 
 - 🌱 I’m currently learning **Flutter,Angular**
 
