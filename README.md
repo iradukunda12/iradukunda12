@@ -1,40 +1,73 @@
+# 👋 Hello, I'm Kevin Iradukunda
 
-<h1 align="center">Hi 👋, I'm IRADUKUNDA Kevin</h1>
-<h3 align="center">A passionate Mobile Developer and Frontend Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+Full-stack Engineer with a deep passion for building exceptional, user-centric digital experiences. I thrive on transforming complex challenges into intuitive, scalable, and high-performance solutions. With a strong foundation in both frontend and backend technologies, I enjoy crafting clean, maintainable code that brings ideas to life—from interactive user interfaces to robust server-side architectures. I’m driven by curiosity, continuous learning, and the desire to make a meaningful impact through technology.
+
+## 💻 Tech Stack
+
+- **Frontend:** Angular (v17+), React.js
+- **Mobile:** Flutter 
+- **Backend:** SpringBoot, Postgresql, Firebase  
+- **Styling & UI:** Tailwind CSS, SCSS, Storybook (for design systems)   
+- **Testing:** Jest 
+- **Tools & Workflow:** Git, GitHub, CI/CD (basic), RESTful APIs, Docker, Agile/Scrum  
+- **Learning Focus:** Scalable architecture, clean code, backend systems, full-stack production-readiness
 
 
-<p align="left"> <a href="https://twitter.com/__kevin_ir" target="blank"><img src="https://img.shields.io/twitter/follow/__kevin_ir?logo=twitter&style=for-the-badge" alt="__kevin_ir" /></a> </p>
+## 🚀 What I Do
+- Build scalable web applications with modern JavaScript frameworks
+- Develop cross-platform mobile solutions using Flutter
+- Create robust backend systems with SpringBoot
+<br />
 
-- 🔭 I’m currently **Freelancing**
-  
-- 💬 Ask me about **Flutter,Angular,Nestjs,UI/UX**
 
-- 📫 How to reach me **iradukundakvn8@gmail.com**
+<div align="center">
+     
+<!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Obeng&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/ub0KRDkGzroPuH57SfU19AmF4AYP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ub0KRDkGzroPuH57SfU19AmF4AYP2?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 
-- ⚡ Fun fact **I am funny**
+</div>    
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/__kevin_ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__kevin_ir" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/iradukunda-kevin-45b80623a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjGyPQ1K0TtuqdlJmYVVEKA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iradukunda kevin" height="30" width="40" /></a>
-<a href="https://instagram.com/__kevin_ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kevin_ir" height="30" width="40" /></a>
-</p>
+<h1 align="center">Technology Tools and Stack</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> 
-</a>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" />
+<img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css3" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="tailwind" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="scss" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+<img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+</div>
 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> 
-</a>
+<br />
+     
+<h1 align="center">Github Streak</h1>
 
-   
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/Typescript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+     
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iradukunda12&hide_border=true)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=iradukunda12&show_icons=true&theme=darcula"/> |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+     
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iradukunda12&show_icons=true&locale=en&layout=compact" alt="iradukunda12" /></p>
+<h1 align="center">Connect with me</h1>
+<div align="center">
+     <a href="https://github.com/iradukuda12">GitHub <a/> • <a href="https://medium.com/@iradukundakvn8">Medium</a> • <a href="https://www.linkedin.com/in/iradukunda-kevin-45b80623a/">LinkedIn</a> 
+<div>
+    
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iradukunda12&show_icons=true&locale=en" alt="iradukunda12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iradukunda12&" alt="iradukunda12" /></p>
+     
+<!---
+Kevin Iradukunda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
