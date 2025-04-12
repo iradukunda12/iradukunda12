@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Kevin Iradukunda
 
-Full-stack Engineer with a deep passion for building exceptional, user-centric digital experiences. I thrive on transforming complex challenges into intuitive, scalable, and high-performance solutions. With a strong foundation in both frontend and backend technologies, I enjoy crafting clean, maintainable code that brings ideas to life—from interactive user interfaces to robust server-side architectures. I’m driven by curiosity, continuous learning, and the desire to make a meaningful impact through technology.
+Frontend Engineer with a deep passion for building exceptional, user-centric digital experiences. I thrive on transforming complex challenges into intuitive, scalable, and high-performance solutions. With a strong foundation in frontend technologies, I enjoy crafting clean, maintainable code that brings ideas to life—from interactive user interfaces to robust server-side architectures. I’m driven by curiosity, continuous learning, and the desire to make a meaningful impact through technology.
 
 ## 💻 Tech Stack
 
 - **Frontend:** Angular (v17+), React.js
 - **Mobile:** Flutter 
-- **Backend:** SpringBoot, Postgresql, Firebase  
+- **Backend:** Firebase  
 - **Styling & UI:** Tailwind CSS, SCSS, Storybook (for design systems)   
 - **Testing:** Jest 
 - **Tools & Workflow:** Git, GitHub, CI/CD (basic), RESTful APIs, Docker, Agile/Scrum  
@@ -16,7 +16,6 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 ## 🚀 What I Do
 - Build scalable web applications with modern JavaScript frameworks
 - Develop cross-platform mobile solutions using Flutter
-- Create robust backend systems with SpringBoot
 <br />
       
 
