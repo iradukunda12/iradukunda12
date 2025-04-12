@@ -35,7 +35,6 @@ Frontend Engineer with a deep passion for building exceptional, user-centric dig
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
-<img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
 </div>
 
 <br />
