@@ -23,7 +23,7 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 <div align="center">
      
 <!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Obeng&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/ub0KRDkGzroPuH57SfU19AmF4AYP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ub0KRDkGzroPuH57SfU19AmF4AYP2?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/monacodelisa" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/monacodelisa?theme=nord" alt="GitRoll Profile Badge" width="400"/></a>  |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 
 </div>    
