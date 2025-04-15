@@ -43,7 +43,7 @@ Mobile Engineer passionate about creating user-centric, high-performance mobile 
 
 <div align="center">
      
-                | <img src="https://github-readme-stats.vercel.app/api?username=iradukunda12&show_icons=true&theme=darcula"/> |
+ <img src="https://github-readme-stats.vercel.app/api?username=iradukunda12&show_icons=true&theme=darcula"/> 
 
 </div>
 
