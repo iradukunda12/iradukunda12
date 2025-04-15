@@ -22,13 +22,14 @@ Mobile Engineer passionate about creating user-centric, high-performance mobile 
 <h1 align="center">Technology Tools and Stack</h1>
 
 <div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />      
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css3" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="tailwind" />
@@ -42,7 +43,7 @@ Mobile Engineer passionate about creating user-centric, high-performance mobile 
 
 <div align="center">
      
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iradukunda12&hide_border=true)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=iradukunda12&show_icons=true&theme=darcula"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=iradukunda12&show_icons=true&theme=darcula"/> |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
      
 </div>
