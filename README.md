@@ -22,8 +22,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer">
-  <img src="https://angular.io/generated/images/logos/angular/angular.svg" width="40" height="40" alt="Angular" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" />
 </a>
+
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="40" height="40" alt="Flutter" />
 </a>
