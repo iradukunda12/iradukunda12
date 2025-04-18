@@ -52,11 +52,4 @@
 <a href="http://www.github.com/iradukunda12"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SergeInGithub&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
----
-
-## 🐍 Watch a snake eat my github contributions
-
-![snake animation](https://github.com/iradukunda12/iradukunda12/blob/output/github-contribution-grid-snake2.svg)
-
----
 
