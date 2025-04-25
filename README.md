@@ -36,6 +36,9 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="tailwind" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="scss" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
+<img src="https://cdn.worldvectorlogo.com/logos/jest.svg" width="48" height="48" alt="Jest" />
+<img src="https://cdn.worldvectorlogo.com/logos/docker-icon-1.svg" width="48" height="48" alt="Docker" />
+
 
 
 </div>
