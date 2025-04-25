@@ -29,13 +29,14 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="48" height="48" alt="Flutter" />
      <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="48" height="48" alt="Dart" />
 <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+     <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="48" height="48" alt="Angular" />
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css3" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="tailwind" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="scss" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="48" height="48" alt="Express.js" />
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+
 
 </div>
 
@@ -45,7 +46,7 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 
 <div align="center">
      
-(https://github-readme-streak-stats.herokuapp.com?user=iradukunda12&hide_border=true)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=iradukunda12&show_icons=true&theme=darcula"/> 
+ <img src="https://github-readme-stats.vercel.app/api?username=iradukunda12&show_icons=true&theme=darcula"/> 
 </div>
 
 <h1 align="center">Connect with me</h1>
