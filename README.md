@@ -21,10 +21,7 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 <div align="center">
      
 <!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iradukunda12&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-
-</div>    
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iradukunda12&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> 
 
 <h1 align="center">Technology Tools and Stack</h1>
 
@@ -39,8 +36,9 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="tailwind" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="scss" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
+     <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="48" height="48" alt="Express.js" />
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="48" height="48" alt="Express.js" />
+
 </div>
 
 <br />
