@@ -20,8 +20,6 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 
 <div align="center">
      
-<!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iradukunda12&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> 
 
 <h1 align="center">Technology Tools and Stack</h1>
 
