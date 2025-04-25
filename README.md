@@ -39,7 +39,7 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="tailwind" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="scss" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
-     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="48" height="48" alt="Express.js" />
 </div>
 
@@ -49,9 +49,7 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 
 <div align="center">
      
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eric-Obeng&hide_border=true)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=Eric-Obeng&show_icons=true&theme=darcula"/> |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-     
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iradukunda12&hide_border=true)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=iradukunda12&show_icons=true&theme=darcula"/> 
 </div>
 
 <h1 align="center">Connect with me</h1>
