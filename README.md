@@ -54,7 +54,7 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 
 <h1 align="center">Connect with me</h1>
 <div align="center">
-     <a href="https://github.com/iradukunda12">GitHub <a/> • <a href="https://www.linkedin.com/in/eric-obeng-66a839179">LinkedIn</a> 
+     <a href="https://github.com/iradukunda12">GitHub <a/> • <a href="linkedin.com/in/iradukunda-kevin-45b80623a">LinkedIn</a> 
 <div>
     
 <br />
